@@ -1,0 +1,33 @@
+name, error_rate, time_scale, window_size, lambda1, num_atoms, interval, extract_mode, classifier_name
+Gun_Point, 0.12, 1, 80, 0.1, 160, 80, max, k-Nearest Neighbors (k=1)
+Gun_Point, 0.07999999999999996, 1, 80, 0.1, 160, 80, max, Logistic Regression
+Gun_Point, 0.12, 1, 80, 0.1, 160, 80, sum, k-Nearest Neighbors (k=1)
+Gun_Point, 0.09999999999999998, 1, 80, 0.1, 160, 80, sum, Logistic Regression
+Gun_Point, 0.12, 1, 80, 0.1, 160, 80, mean, k-Nearest Neighbors (k=1)
+Gun_Point, 0.07999999999999996, 1, 80, 0.1, 160, 80, mean, Logistic Regression
+Gun_Point, 0.24, 1, 80, 0.1, 160, 80, hist, k-Nearest Neighbors (k=1)
+Gun_Point, 0.18000000000000005, 1, 80, 0.1, 160, 80, hist, Logistic Regression
+Gun_Point, 0.16000000000000003, 1, 80, 0.1, 160, 40, max, k-Nearest Neighbors (k=1)
+Gun_Point, 0.06000000000000005, 1, 80, 0.1, 160, 40, max, Logistic Regression
+Gun_Point, 0.16000000000000003, 1, 80, 0.1, 160, 40, sum, k-Nearest Neighbors (k=1)
+Gun_Point, 0.06000000000000005, 1, 80, 0.1, 160, 40, sum, Logistic Regression
+Gun_Point, 0.16000000000000003, 1, 80, 0.1, 160, 40, mean, k-Nearest Neighbors (k=1)
+Gun_Point, 0.07999999999999996, 1, 80, 0.1, 160, 40, mean, Logistic Regression
+Gun_Point, 0.09999999999999998, 1, 80, 0.1, 160, 40, hist, k-Nearest Neighbors (k=1)
+Gun_Point, 0.14, 1, 80, 0.1, 160, 40, hist, Logistic Regression
+Gun_Point, 0.06000000000000005, 1, 80, 0.1, 160, 20, max, k-Nearest Neighbors (k=1)
+Gun_Point, 0.040000000000000036, 1, 80, 0.1, 160, 20, max, Logistic Regression
+Gun_Point, 0.06000000000000005, 1, 80, 0.1, 160, 20, sum, k-Nearest Neighbors (k=1)
+Gun_Point, 0.040000000000000036, 1, 80, 0.1, 160, 20, sum, Logistic Regression
+Gun_Point, 0.07999999999999996, 1, 80, 0.1, 160, 20, mean, k-Nearest Neighbors (k=1)
+Gun_Point, 0.06000000000000005, 1, 80, 0.1, 160, 20, mean, Logistic Regression
+Gun_Point, 0.09999999999999998, 1, 80, 0.1, 160, 20, hist, k-Nearest Neighbors (k=1)
+Gun_Point, 0.18000000000000005, 1, 80, 0.1, 160, 20, hist, Logistic Regression
+Gun_Point, 0.06000000000000005, 1, 80, 0.1, 160, 10, max, k-Nearest Neighbors (k=1)
+Gun_Point, 0.040000000000000036, 1, 80, 0.1, 160, 10, max, Logistic Regression
+Gun_Point, 0.040000000000000036, 1, 80, 0.1, 160, 10, sum, k-Nearest Neighbors (k=1)
+Gun_Point, 0.040000000000000036, 1, 80, 0.1, 160, 10, sum, Logistic Regression
+Gun_Point, 0.06000000000000005, 1, 80, 0.1, 160, 10, mean, k-Nearest Neighbors (k=1)
+Gun_Point, 0.06000000000000005, 1, 80, 0.1, 160, 10, mean, Logistic Regression
+Gun_Point, 0.040000000000000036, 1, 80, 0.1, 160, 10, hist, k-Nearest Neighbors (k=1)
+Gun_Point, 0.06000000000000005, 1, 80, 0.1, 160, 10, hist, Logistic Regression

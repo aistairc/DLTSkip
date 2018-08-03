@@ -1,0 +1,2 @@
+name, error_rate, time_scale, window_size, lambda1, num_atoms, interval, extract_mode, classifier_name
+Gun_Point, 0.06000000000000005, 1, 80, 0.1, 160, 20, max, Logistic Regression
